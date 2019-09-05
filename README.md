@@ -1,6 +1,8 @@
 # WiseDataKeks
 This project is a starting point for a wise app for a wise guy.
 
+<img src="https://github.com/xxxperimental/wisedatakeks/blob/master/wisedatakeks_logo.png" width="200" height="200" />
+
 Initial boilerplate code from https://github.com/covalence-io/barebones-react-typescript-express.
 
 There are 2 different Webpack configurations. One for the server and one for the client.
