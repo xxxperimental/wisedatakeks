@@ -1,5 +1,7 @@
-# Barebones React/TypeScript/Express/Sass Boilerplate
-This project is a starting point for a TypeScript based React app that also has a local API server using express.
+# WiseDataKeks
+This project is a starting point for a wise app for a wise guy.
+
+Initial boilerplate code from https://github.com/covalence-io/barebones-react-typescript-express.
 
 There are 2 different Webpack configurations. One for the server and one for the client.
 
